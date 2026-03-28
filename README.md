@@ -49,27 +49,3 @@ Read this in other languages:
 &middot; [Tiếng Việt](lang/vietnamese.md)
 
 _Don't have the language you need? Just create an [issue](https://github.com/israice/Github-Badge-Quest/issues)._
-
-<br>
-
-
-
-## Dev
-
-<details open>
-<summary>Roadmap</summary>
-
-- [ ] v.0.0.3 test language links
-- [x] v.0.0.2 create github pages
-- [x] v.0.0.1 create project files
-
-</details>
-
-
-<details>
-<summary>Github Update</summary>
-git add .
-git commit -m "v.0.0.2 create github pages"
-git push
-
-</details>
